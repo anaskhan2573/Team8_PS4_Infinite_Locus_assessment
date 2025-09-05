@@ -44,11 +44,14 @@ Relationships between courses and feedback
 
 👥 Team Members
 Name	Role
-Anas Khan (60205220203)	Team Lead
+Anas Khan (60205220203)	Team Lead and Backend Developer
+
 Bharat Singh Parmar (A20405222117)	Backend Developer
+
 Vivek Sharma (A60205222286)	Frontend Developer
-Ayush N Sanwariya (A20405222064)	Full Stack Developer
+
 Harsh Dhama (20405222195)	UI/UX Designer
+
 🎯 Assessment Requirements Met
 
 Backend:
@@ -159,7 +162,7 @@ Integration with learning management systems
 This project was developed as part of the Infinite Locus Assessment Program.
 
 📞 Contact
-Name	Email
+Name	      Email
 Anas Khan	Khananas2573@gmail.com
 
 Bharat Singh Parmar	parmarbharatsingh77@gmail.com
