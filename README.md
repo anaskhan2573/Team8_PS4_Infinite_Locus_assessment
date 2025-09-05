@@ -164,7 +164,7 @@ For questions about this project, please contact:
 
 Anas Khan: Khananas2573@gmail.com
 
-Bharat Singh Parmar: parmarbharatsingh77@gmail.com
+Bharat Singh Parmar: parmarbharatsingh775@gmail.com
 
 Vivek Sharma: sharmaviv1122@gmail.com
 
