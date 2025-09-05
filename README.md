@@ -1,9 +1,9 @@
 # Team8_PS4_Infinite_Locus_assessment
-🎓 Student Feedback System
+**🎓 Student Feedback System**
 
 A comprehensive web application for collecting and analyzing student feedback for courses. This system allows students to submit ratings and comments, while providing instructors with detailed analytics on course performance.
 
-🚀 Features
+**🚀 Features**
 
 Course Management: Full CRUD operations for courses
 
@@ -14,10 +14,10 @@ Analytics Dashboard: Visual charts showing rating distribution and average ratin
 Responsive Design: Works on desktop and mobile devices
 
 Real-time Updates: Instant feedback aggregation and display
+**
+🛠️ Technology Stack**
 
-🛠️ Technology Stack
-
-Frontend:
+**Frontend:**
 
 React.js with Hooks
 
@@ -27,7 +27,7 @@ Bootstrap for styling
 
 Chart.js for analytics visualization
 
-Backend:
+**Backend:**
 
 JSON Server (mock API)
 
@@ -39,10 +39,37 @@ JSON-based data storage
 
 Relationships between courses and feedback
 
-📁 Project Structure
-<img width="859" height="338" alt="image" src="https://github.com/user-attachments/assets/f0566212-6566-46a7-92b0-a7b71e95c4c9" />
-
-👥 Team Members
+**📁 Project Structure**
+**feedback-system/
+├── backend/
+│   ├── config/
+│   │   └── database.js
+│   ├── controllers/
+│   │   ├── courseController.js
+│   │   └── feedbackController.js
+│   ├── models/
+│   │   ├── index.js
+│   │   ├── course.js
+│   │   └── feedback.js
+│   ├── routes/
+│   │   ├── courses.js
+│   │   └── feedback.js
+│   ├── package.json
+│   └── server.js
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── CourseList.js
+│   │   │   ├── FeedbackForm.js
+│   │   │   └── Analytics.js
+│   │   ├── App.js
+│   │   └── index.js
+│   ├── package.json
+│   └── index.html
+└── README.md**
+**
+**👥 Team Members****
 Name	Role
 Anas Khan (60205220203)	Team Lead and Backend Developer
 
@@ -69,7 +96,7 @@ Database:
 ✅ Feedback table with student ratings and comments
 ✅ Proper relationships between tables
 
-🚦 Getting Started
+**🚦 Getting Started**
 Prerequisites
 
 Node.js (v14 or higher)
@@ -171,5 +198,7 @@ Vivek Sharma	sharmaviv1122@gmail.com
 <img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/37731b68-58e2-4e4e-816f-68b79f370c70" />
 <img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/37c6d67f-e97b-43fd-9603-f28dc187a431" />
 ![WhatsApp Image 2025-09-05 at 12 08 28_9638d6d6](https://github.com/user-attachments/assets/83d7a7d9-955d-48bd-891d-cac721d61cbc)
+![WhatsApp Image 2025-09-05 at 12 08 39_1ab9e34e](https://github.com/user-attachments/assets/a710d5b6-f72f-4901-8544-0ce7b949cf75)
+
 
 
