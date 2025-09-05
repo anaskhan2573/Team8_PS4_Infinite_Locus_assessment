@@ -183,8 +183,7 @@ Harsh Dhama harshdhama1416@gmail.com
 
 <img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/37731b68-58e2-4e4e-816f-68b79f370c70" />
 <img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/37c6d67f-e97b-43fd-9603-f28dc187a431" />
-![WhatsApp Image 2025-09-05 at 12 08 28_9638d6d6](https://github.com/user-attachments/assets/83d7a7d9-955d-48bd-891d-cac721d61cbc)
-![WhatsApp Image 2025-09-05 at 12 08 39_1ab9e34e](https://github.com/user-attachments/assets/a710d5b6-f72f-4901-8544-0ce7b949cf75)
-
+<img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/9300d045-097e-44db-824e-9c10bed355aa" />
+<img width="1280" height="675" alt="image" src="https://github.com/user-attachments/assets/79c5fd3f-4c87-4d90-84ae-5d58103291bb" />
 
 
