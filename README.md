@@ -46,7 +46,7 @@ Relationships between courses and feedback
 Name	Role
 Anas Khan (60205220203)	Team Lead
 Bharat Singh Parmar (A20405222117)	Backend Developer
-Vivek Sharma (AG0205222286)	Frontend Developer
+Vivek Sharma (A60205222286)	Frontend Developer
 Ayush N Sanwariya (A20405222064)	Full Stack Developer
 Harsh Dhama (20405222195)	UI/UX Designer
 🎯 Assessment Requirements Met
