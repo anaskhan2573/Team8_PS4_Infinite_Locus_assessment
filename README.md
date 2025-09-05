@@ -40,15 +40,7 @@ JSON-based data storage
 Relationships between courses and feedback
 
 📁 Project Structure
-src/
-├── components/
-│   ├── Navbar.js           # Navigation component
-│   ├── CourseList.js       # Displays available courses
-│   ├── FeedbackForm.js     # Form for submitting feedback
-│   ├── Analytics.js        # Shows course analytics with charts
-│   └── CourseManagement.js # CRUD operations for courses
-├── App.js                  # Main application component
-└── App.css                 # Application styles
+<img width="859" height="338" alt="image" src="https://github.com/user-attachments/assets/f0566212-6566-46a7-92b0-a7b71e95c4c9" />
 
 👥 Team Members
 Name	Role
