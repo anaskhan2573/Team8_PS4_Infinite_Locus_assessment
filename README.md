@@ -40,35 +40,8 @@ JSON-based data storage
 Relationships between courses and feedback
 
 **📁 Project Structure**
-**feedback-system/
-├── backend/
-│   ├── config/
-│   │   └── database.js
-│   ├── controllers/
-│   │   ├── courseController.js
-│   │   └── feedbackController.js
-│   ├── models/
-│   │   ├── index.js
-│   │   ├── course.js
-│   │   └── feedback.js
-│   ├── routes/
-│   │   ├── courses.js
-│   │   └── feedback.js
-│   ├── package.json
-│   └── server.js
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── CourseList.js
-│   │   │   ├── FeedbackForm.js
-│   │   │   └── Analytics.js
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── package.json
-│   └── index.html
-└── README.md**
-**
+<img width="739" height="684" alt="image" src="https://github.com/user-attachments/assets/d4adb538-8561-45dd-81b3-f5a74d6010ba" />
+
 
 
 
