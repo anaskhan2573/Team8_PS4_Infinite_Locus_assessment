@@ -75,13 +75,13 @@ Relationships between courses and feedback
 **👥 Team Members****
 Name	Role
 
-Anas Khan (60205220203)	Team Lead and Backend Developer
+Anas Khan (A60205220203)	Team Lead and Backend Developer
 
 Bharat Singh Parmar (A20405222117)	Backend Developer
 
 Vivek Sharma (A60205222286)	Frontend Developer
 
-Harsh Dhama (20405222195)	UI/UX Designer
+Harsh Dhama (A20405222195)	UI/UX Designer
 
 🎯 Assessment Requirements Met
 
