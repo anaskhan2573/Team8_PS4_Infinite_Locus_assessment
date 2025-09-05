@@ -1,0 +1,56 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Mathematics",
+      "instructor": "Dr. Smith"
+    },
+    {
+      "id": 2,
+      "name": "Computer Science",
+      "instructor": "Prof. Johnson"
+    },
+    {
+      "id": 3,
+      "name": "Physics",
+      "instructor": "Dr. Brown"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": 1,
+      "courseId": 1,
+      "rating": 5,
+      "comment": "good",
+      "createdAt": "2025-09-05T04:38:40.564Z"
+    },
+    {
+      "id": 2,
+      "courseId": 1,
+      "rating": 5,
+      "comment": "nice",
+      "createdAt": "2025-09-05T04:42:21.078Z"
+    },
+    {
+      "id": 3,
+      "courseId": 1,
+      "rating": 5,
+      "comment": "nice",
+      "createdAt": "2025-09-05T04:44:24.769Z"
+    },
+    {
+      "id": 4,
+      "courseId": 3,
+      "rating": 5,
+      "comment": "aot z",
+      "createdAt": "2025-09-05T04:56:02.604Z"
+    },
+    {
+      "id": 5,
+      "courseId": 1,
+      "rating": 3,
+      "comment": "good",
+      "createdAt": "2025-09-05T05:31:02.192Z"
+    }
+  ]
+}
